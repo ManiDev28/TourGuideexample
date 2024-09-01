@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/OPT1"
+        android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        />
+
+    <item
+        android:id="@+id/OPT2"
+        android:title="Restaurants"
+        android:icon="@drawable/ic_baseline_restaurant_24"
+        />
+
+    <item
+        android:id="@+id/OPT3"
+        android:title="Tourist spots"
+        android:icon="@drawable/ic_baseline_tour_24"
+        />
+
+    <item
+        android:id="@+id/OPT4"
+        android:title="Resorts"
+        android:icon="@drawable/ic_baseline_local_hotel_24"
+        />
+
+</menu>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="nav_open"></string>
+    <string name="nav_close"></string>
+    <string name="home_text">Munnar rises as three mountain streams merge  - Mudrapuzha, Nallathanni and Kundala. 1,600 m above sea level, this hill station was once the summer resort of the erstwhile British Government in South India. One of the most sought after honeymoon destinations in Kerala, Munnar is replete with resorts and logding facilities that fit a wide rage of budgets. Sprawling tea plantations, picturesque towns, winding lanes and holiday facilities make this a popular resort town. Among the exotic flora found in the forests and grasslands here is the Neelakurinji. This flower which bathes the hills in blue once in every twelve years, will bloom next in 2030. Munnar also has the highest peak in South India, Anamudi, which towers over 2,695 m.
+</string>
+    <string name="resort1">Chandy Windys Woods Munnar</string>
+    <string name="resort2">Munnar Ice Queen</string>
+    <string name="tour_1">Meesapulimala</string>
+    <string name="tour_2">Ernakulam National Park</string>
+    <string name="tour_3">Mattupetty Dam</string>
+    <string name="rest1">Blanket Hotel</string>
+    <string name="rest2">Hotel HillView</string>
+
+</resources>
