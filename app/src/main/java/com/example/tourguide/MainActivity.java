@@ -43,6 +43,7 @@ public class MainActivity extends AppCompatActivity {
 
             int id = item.getItemId();
             item.setChecked(true);
+            //app navbar options
             drawerLayout.closeDrawer(GravityCompat.START);
             switch (id) {
 
